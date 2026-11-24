@@ -22,5 +22,4 @@ Full schematic: [schematic.pdf](docs/schematic.pdf)
 - `firmware/` ESP32 code (coming soon)
 - `docs/` Schematic PDF and images
 
-## Status
-v2.0 boards ordered from JLCPCB in November 2026. Firmware and photos to come.
+
